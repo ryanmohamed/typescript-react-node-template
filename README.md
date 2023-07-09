@@ -3,10 +3,10 @@
 ### Getting Started
 Install dependencies
 ```bash
-	cd client
-	npm install
-	cd ../server
-	npm install
+cd client
+npm install
+cd ../server
+npm install
 ```
 
 Writing Server-Side 
